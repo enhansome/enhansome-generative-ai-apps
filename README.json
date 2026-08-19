@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 638513786,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T04:14:49Z",
+            "last_commit": "2026-08-19T11:29:40Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26649
+            "stars": 26667
           }
         },
         {
@@ -24,105 +25,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 636553615,
             "language": null,
             "last_commit": "2026-08-02T09:36:35Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1953
+            "stars": 1954
           }
         }
       ],
       "title": "Related Projects"
-    },
-    {
-      "description": "Every app here is a complete, sellable SaaS product — not a demo, not a UI kit. Fork one, put your logo on it, and you have a live product that can take payments today.\nYou own it entirely. MIT licensed — no royalties, no revenue share. Your brand, your domain, your income.",
-      "items": [],
-      "title": "💰 This Is a Money-Making Repo"
-    },
-    {
-      "description": "Each template uses a credit billing model. Here's the math on a typical app:\nThe margin is high because you're reselling AI compute. The hard parts — billing, auth, async job handling, webhook retry, credit deduction — are already built. Your job is distribution.",
-      "items": [],
-      "title": "How the money works"
-    },
-    {
-      "description": "AI headshot tools charge $29–$49 per pack. Virtual staging tools charge $29 per image. Video clipping tools charge $49/month. These are not hypothetical — companies built on these exact ideas are doing millions in revenue. The open-source version of their product is right here.",
-      "items": [],
-      "title": "Pick a niche, own it"
-    },
-    {
-      "description": "Or deploy instantly with the Deploy to Vercel button in each template's README.",
-      "items": [],
-      "title": "🚀 Quick Start"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔥 Featured This Month"
-    },
-    {
-      "description": "Full-stack platforms you can self-host or white-label. Leonardo AI charges $12–$60/mo. OpenArt charges $9–$57/mo. Krea charges $10–$35/mo. Freepik AI (with Magnific) runs $8–$50/mo. These open-source alternatives let you capture that same revenue with zero licensing fees.",
-      "items": [],
-      "title": "🌐 Open-Source AI Platforms"
-    },
-    {
-      "description": "The market: Midjourney makes est. $200M+/year. DALL·E powers ChatGPT Plus at $20/mo for 200M+ users. Aragon AI (just headshots) reportedly crossed $1M ARR. One niche image product = real income.",
-      "items": [],
-      "title": "🖼️ Image Generation"
-    },
-    {
-      "description": "The market: Opus Clip (video clipping) raised $10M and reportedly hit $20M+ ARR. Runway raised $236M. The AI video tools market is projected at $2B+ by 2027. Clipping and short-form tools are the highest-demand entry point.",
-      "items": [],
-      "title": "🎬 Video Generation"
-    },
-    {
-      "description": "The market: ModiFace (acquired by L'Oreal for est. $68M) powers virtual try-ons for major retailers. YouCam makes $50M+/year. Fashion and beauty AI tools have some of the highest willingness-to-pay of any consumer vertical.",
-      "items": [],
-      "title": "💄 Beauty & Fashion AI"
-    },
-    {
-      "description": "The market: Photoroom (product photo editing) raised $19M Series A and reportedly crossed $50M ARR. Flair AI raised $4M. E-commerce sellers pay premium for anything that speeds up product listings — this is a high-LTV B2B niche.",
-      "items": [],
-      "title": "🛒 E-commerce & Product Photography"
-    },
-    {
-      "description": "The market: BoxBrownie (real estate photo editing) processes 100k+ orders/month at $4–$32/image. Virtual Staging AI charges $29/image. The real estate industry spends $10B+/year on marketing — AI staging is eating into that fast.",
-      "items": [],
-      "title": "🏠 Home & Real Estate AI"
-    },
-    {
-      "description": "The market: Lensa AI made $50M in two months at launch. FaceApp has 150M+ users. Portrait and avatar tools are proven consumer hits — high volume, impulse purchase, low churn from novelty factor.",
-      "items": [],
-      "title": "👤 Portrait & Avatar AI"
-    },
-    {
-      "description": "The market: Jasper AI hit $80M ARR at peak. Copy.ai raised $13.9M. Surfer SEO raised $22M. Writers and marketers are the highest-converting SaaS buyers — they feel the pain every day and pay monthly without question.",
-      "items": [],
-      "title": "✍️ Writing & Content"
-    },
-    {
-      "description": "The market: Character.AI reportedly crossed $1B ARR. Chatbase (chatbot builder) hit $1M ARR in under a year bootstrapped. Botpress raised $25M. Custom AI agents are the fastest-growing B2B SaaS category.",
-      "items": [],
-      "title": "🤖 AI Agents & Chatbots"
-    },
-    {
-      "description": "The market: ElevenLabs hit $80M ARR in under 3 years and raised at a $3.3B valuation. Murf AI raised $10M. Voice is one of the fastest paths to B2B revenue — companies pay recurring fees for voice APIs that power their own products.",
-      "items": [],
-      "title": "🎵 Audio & Voice"
-    },
-    {
-      "description": "Every template is built on the same production-ready foundation:\nBase template (auth + billing + webhooks, no AI logic): github.com/SamurAIGPT/ai-saas-starter",
-      "items": [],
-      "title": "🏗️ Common Stack"
-    },
-    {
-      "description": "MIT Licensed. Fork it, ship it, sell it.",
-      "items": [],
-      "title": "📄 License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:06:07.613Z",
+    "last_updated": "2026-08-19T12:31:54.106Z",
     "original_repository": "Anil-matcha/awesome-generative-ai-apps",
+    "original_repository_id": 716944423,
     "original_repository_sha": "9665e953fdc5d5839c037bd64a1f8b6c978b7857",
     "enhanced_repository": "enhansome/enhansome-generative-ai-apps",
     "enhanced_repository_description": null,
