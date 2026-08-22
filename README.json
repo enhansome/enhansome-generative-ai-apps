@@ -12,10 +12,10 @@
             "archived": false,
             "id": 638513786,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T20:21:01Z",
+            "last_commit": "2026-08-20T21:47:52Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26697
+            "stars": 26796
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 636553615,
             "language": null,
-            "last_commit": "2026-08-02T09:36:35Z",
+            "last_commit": "2026-08-21T10:44:13Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1956
+            "stars": 1958
           }
         }
       ],
@@ -38,10 +38,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:05:29.477Z",
+    "last_updated": "2026-08-22T03:02:23.391Z",
     "original_repository": "Anil-matcha/awesome-generative-ai-apps",
     "original_repository_id": 716944423,
-    "original_repository_sha": "9665e953fdc5d5839c037bd64a1f8b6c978b7857",
+    "original_repository_sha": "132ff986d5b1a8602746ba1982057790490290b0",
     "enhanced_repository": "enhansome/enhansome-generative-ai-apps",
     "enhanced_repository_description": null,
     "title": "💸 Awesome Generative AI Apps with stars"
