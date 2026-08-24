@@ -12,10 +12,10 @@
             "archived": false,
             "id": 638513786,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T21:47:52Z",
+            "last_commit": "2026-08-23T18:27:41Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26847
+            "stars": 26941
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T10:44:13Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1964
+            "stars": 1968
           }
         }
       ],
@@ -38,7 +38,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:11:18.010Z",
+    "last_updated": "2026-08-24T03:12:04.546Z",
     "original_repository": "Anil-matcha/awesome-generative-ai-apps",
     "original_repository_id": 716944423,
     "original_repository_sha": "132ff986d5b1a8602746ba1982057790490290b0",
