@@ -12,10 +12,10 @@
             "archived": false,
             "id": 638513786,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T18:27:41Z",
+            "last_commit": "2026-08-24T12:02:28Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26941
+            "stars": 27011
           }
         },
         {
@@ -30,15 +30,1146 @@
             "last_commit": "2026-08-21T10:44:13Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1968
+            "stars": 1969
           }
         }
       ],
       "title": "Related Projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🎬 Zack D Films AI Video Generator",
+          "description": "New — turn one topic into a finished 3D animated explainer short with consistent characters, Veo motion, narration, and captions GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1321355565,
+            "language": "Python",
+            "last_commit": "2026-08-05T20:39:11Z",
+            "owner": "Anil-matcha",
+            "repo": "zack-d-films-ai-video-generator",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🤝 Open AI Agents Hub",
+          "description": "Updated — self-hosted library and builder for chat, image, video, and audio agents GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1280333539,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:36:52Z",
+            "owner": "Anil-matcha",
+            "repo": "open-ai-agents-hub",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💬 Open Claude Tag",
+          "description": "New — self-hostable Slack AI teammate with shared channel memory, skills, and multi-LLM support GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1336779271,
+            "language": "Python",
+            "last_commit": "2026-08-17T06:51:31Z",
+            "owner": "Anil-matcha",
+            "repo": "open-claude-tag",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧠 Open Grok Bot",
+          "description": "New — local-first workspace for bot personas, multimodal chat, voice dictation, governed computer use, and connectors via MUAPI GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1340344224,
+            "language": "Python",
+            "last_commit": "2026-08-20T08:28:08Z",
+            "owner": "Anil-matcha",
+            "repo": "open-grok-bot",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📣 Open Pomelli",
+          "description": "Trending (99★) — turn a website into editable brand DNA, campaign concepts, product photography, and short-form videos GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1115340067,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T09:37:05Z",
+            "owner": "SamurAIGPT",
+            "repo": "Open-Pomelli",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✂️ AI YouTube Shorts Generator",
+          "description": "Popular (4.6k★) — automatically turn long-form videos into viral 9:16 shorts GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 821280833,
+            "language": "Python",
+            "last_commit": "2026-07-29T05:22:52Z",
+            "owner": "Anil-matcha",
+            "repo": "AI-Youtube-Shorts-Generator",
+            "stars": 4703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Generative Media Skills",
+          "description": "Trending (4.1k★) — multi-modal image/video/audio skills for Claude Code, Cursor & Gemini CLI GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645381450,
+            "language": "Shell",
+            "last_commit": "2026-08-24T10:52:36Z",
+            "owner": "SamurAIGPT",
+            "repo": "Generative-Media-Skills",
+            "stars": 4135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📚 LLM Wiki Agent",
+          "description": "Trending (3.4k★) — a personal knowledge base that builds and maintains itself GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 630824392,
+            "language": "Python",
+            "last_commit": "2026-08-24T04:07:01Z",
+            "owner": "SamurAIGPT",
+            "repo": "llm-wiki-agent",
+            "stars": 3442
+          }
+        }
+      ],
+      "title": "🔥 Featured This Month"
+    },
+    {
+      "description": "Full-stack platforms you can self-host or white-label. Leonardo AI charges $12–$60/mo. OpenArt charges $9–$57/mo. Krea charges $10–$35/mo. Freepik AI (with Magnific) runs $8–$50/mo. These open-source alternatives let you capture that same revenue with zero licensing fees.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Generative AI",
+          "description": "↗ GitHub Open-source AI image & video studio with 200+ models. No content filters. Self-hosted. Leonardo AI ($60/mo), Krea ($35/mo), OpenArt ($57/mo), Freepik/Magnific ($50/mo) ⭐ 23k+",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 638513786,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T12:02:28Z",
+            "owner": "Anil-matcha",
+            "repo": "Open-Generative-AI",
+            "stars": 27011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free AI Social Media Scheduler",
+          "description": "↗ GitHub Self-hostable AI social media scheduler with built-in content generation Buffer ($18/mo), Hootsuite ($99/mo), Postiz ($42/mo) ⭐ 453",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 747212940,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:36:25Z",
+            "owner": "Anil-matcha",
+            "repo": "Free-AI-Social-Media-Scheduler",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open AI Design Agent",
+          "description": "↗ GitHub Autonomous multi-step AI design agent for creatives, brand kits, ad creatives Lovart AI ($30/mo), Galileo AI ($50/mo) ⭐ 807",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 641440545,
+            "language": "JavaScript",
+            "last_commit": "2026-07-03T14:44:56Z",
+            "owner": "Anil-matcha",
+            "repo": "Open-AI-Design-Agent",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Poe AI",
+          "description": "↗ GitHub Self-hosted multi-model AI chat — GPT, Claude, Gemini, Llama, bring your own keys Poe AI ($20/mo), ChatGPT Plus ($20/mo) ⭐ 241",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1280333539,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:36:52Z",
+            "owner": "Anil-matcha",
+            "repo": "open-ai-agents-hub",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open AI Agents Hub",
+          "description": "Self-hosted platform for reusable chat, image, video, and audio agents with an agent library and builder Dify, Botpress, AnythingLLM ⭐ 14",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1280333539,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:36:52Z",
+            "owner": "Anil-matcha",
+            "repo": "open-ai-agents-hub",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vibe Workflow",
+          "description": "Node-based AI workflow builder for generative image & video pipelines Weavy, Krea Nodes, FloraFauna AI ⭐ 507",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1125143051,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T17:31:53Z",
+            "owner": "SamurAIGPT",
+            "repo": "Vibe-Workflow",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixelRelay",
+          "description": "Self-hosted unified API for generative media — one webhook endpoint across Fal, Replicate, with failover fal.ai, Replicate, Together ⭐ 14",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1077547586,
+            "language": "Python",
+            "last_commit": "2026-08-02T09:38:01Z",
+            "owner": "SamurAIGPT",
+            "repo": "pixelrelay",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "🌐 Open-Source AI Platforms"
+    },
+    {
+      "description": "The market: Midjourney makes est. $200M+/year. DALL·E powers ChatGPT Plus at $20/mo for 200M+ users. Aragon AI (just headshots) reportedly crossed $1M ARR. One niche image product = real income.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nano Banana Generator",
+          "description": "↗ GitHub Text-to-image and multi-image reference editing SaaS Midjourney ($10–$30/mo), DALL·E ($15/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1075146799,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:26:18Z",
+            "owner": "SamurAIGPT",
+            "repo": "nano-banana-generator",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Headshot Generator",
+          "description": "↗ GitHub LinkedIn photos, team portraits, personal branding Aragon AI ($29–$49/pack), HeadshotPro ($29/pack) — Aragon est. $1M+ ARR Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1211525105,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:20Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-headshot-generator",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Logo Studio",
+          "description": "↗ GitHub Text-to-logo and sketch-to-logo brand identity generator Looka ($20–$80/logo), Brandmark ($25–$65/logo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1251332903,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:39:46Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-logo-studio",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Meme Studio",
+          "description": "↗ GitHub AI meme & viral short video generator with multiple models Imgflip Pro ($10/mo), Supermeme ($19/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1245694329,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:39:00Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-meme-generator",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Old Photo Restore",
+          "description": "↗ GitHub Colorize, denoise, and repair damaged vintage photos Remini (est. $100M+ revenue), MyHeritage ($50/yr) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1244682987,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:26:07Z",
+            "owner": "SamurAIGPT",
+            "repo": "old-photo-restore",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClearMark AI",
+          "description": "↗ GitHub Remove watermarks, logos, and text overlays using GPT Image 2 Watermarkremover.io ($9.99/mo), HitPaw ($20/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1253164106,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:40Z",
+            "owner": "SamurAIGPT",
+            "repo": "clearmark-ai",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "🖼️ Image Generation"
+    },
+    {
+      "description": "The market: Opus Clip (video clipping) raised $10M and reportedly hit $20M+ ARR. Runway raised $236M. The AI video tools market is projected at $2B+ by 2027. Clipping and short-form tools are the highest-demand entry point.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Seedance 2 Generator",
+          "description": "↗ GitHub Text-to-video and multi-image reference video SaaS Runway ($12–$76/mo), Kling ($10–$36/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1211475840,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T11:21:30Z",
+            "owner": "SamurAIGPT",
+            "repo": "seedance-2-generator",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Veo Video Generator",
+          "description": "↗ GitHub Text-to-video and image-to-video with Google Veo Sora ($20/mo), Runway ($76/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1219974566,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:38:04Z",
+            "owner": "SamurAIGPT",
+            "repo": "veo4-video-generator",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Kissing Video Generator",
+          "description": "↗ GitHub Merge two portraits into a romantic AI video Reface ($4.99/mo), novelty apps charging $2–5/video Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1250088700,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:39:23Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-kissing-video-generator",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Youtube Shorts Generator",
+          "description": "↗ GitHub Auto-extract viral 9:16 shorts from long-form videos Opus Clip ($15–$49/mo, est. $20M+ ARR), Klap ($29/mo) Demo · ↗ GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 821280833,
+            "language": "Python",
+            "last_commit": "2026-07-29T05:22:52Z",
+            "owner": "Anil-matcha",
+            "repo": "AI-Youtube-Shorts-Generator",
+            "stars": 4703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Clipping Generator",
+          "description": "↗ GitHub Auto-extract Reels and TikToks from YouTube videos Opus Clip ($15–$49/mo), SubMagic ($20–$60/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1219834228,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:13Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-clipping-generator",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Micro-Drama Generator",
+          "description": "↗ GitHub Turn any idea into a complete short-form AI drama Creatify ($39/mo), Synthesia ($22–$67/mo) —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 653702419,
+            "language": "Python",
+            "last_commit": "2026-08-02T09:36:28Z",
+            "owner": "Anil-matcha",
+            "repo": "Open-AI-Micro-Drama-Generator",
+            "stars": 467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI B-Roll Generator",
+          "description": "Auto-generate relevant B-roll footage from scripts or transcripts Storyblocks ($15/mo), Artlist ($16/mo) —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1310213887,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-02T09:36:17Z",
+            "owner": "Anil-matcha",
+            "repo": "AI-B-roll",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open AI UGC",
+          "description": "↗ GitHub Generate AI UGC-style video ads with virtual creators Arcads ($99–$299/mo), MakeUGC ($49/mo) —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 643931576,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T19:43:04Z",
+            "owner": "Anil-matcha",
+            "repo": "Open-AI-UGC",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vox AI Motion Graphics Generator",
+          "description": "Turn any topic into a Vox-style paper-collage explainer video — script, keyframes, motion, voice-over, music & captions Vox editorial studios, Motion designers ($50–$150/hr) —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 715417018,
+            "language": "Python",
+            "last_commit": "2026-08-03T07:48:10Z",
+            "owner": "Anil-matcha",
+            "repo": "vox-ai-motion-graphics-generator",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zack D Films AI Video Generator",
+          "description": "Turn one topic into a finished 3D animated explainer short with consistent characters, Veo motion, narration, and captions CapCut, InVideo AI, motion-design studios —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1321355565,
+            "language": "Python",
+            "last_commit": "2026-08-05T20:39:11Z",
+            "owner": "Anil-matcha",
+            "repo": "zack-d-films-ai-video-generator",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text-To-Video-AI",
+          "description": "Generate full videos from a text prompt — script, stock footage, voice-over, captions Pika ($10/mo), InVideo AI ($20/mo) —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 811339757,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-24T10:56:42Z",
+            "owner": "SamurAIGPT",
+            "repo": "Text-To-Video-AI",
+            "stars": 814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Faceless Video Generator",
+          "description": "Generate script, voice, and a talking face entirely with AI HeyGen ($29/mo), Synthesia ($22/mo) —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 827715319,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-02T09:37:00Z",
+            "owner": "SamurAIGPT",
+            "repo": "AI-Faceless-Video-Generator",
+            "stars": 493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clip Anything",
+          "description": "Clip any moment from any video with a text prompt Opus Clip ($15–$49/mo), Vidyo.ai ($20/mo) —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 859391327,
+            "language": "Python",
+            "last_commit": "2026-07-21T10:05:15Z",
+            "owner": "SamurAIGPT",
+            "repo": "Clip-Anything",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Influencer Generator",
+          "description": "Create and customize a consistent AI influencer / virtual creator Glambase, Fanvue, Deepagency ($19/mo) —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 927158571,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-02T09:37:03Z",
+            "owner": "SamurAIGPT",
+            "repo": "AI-Influencer-Generator",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI VFX",
+          "description": "Add AI-powered visual effects to videos Runway ($12–$76/mo), Kaiber ($5–$30/mo) —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1014355709,
+            "language": "JavaScript",
+            "last_commit": "2026-02-05T11:03:34Z",
+            "owner": "SamurAIGPT",
+            "repo": "AI-VFX",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seedance Watermark Remover",
+          "description": "Remove the Seedance 2.0 (AI生成) watermark from videos — no GPU required Manual editing, paid removers —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1288499696,
+            "language": "Python",
+            "last_commit": "2026-08-04T19:14:48Z",
+            "owner": "SamurAIGPT",
+            "repo": "seedance-2.0-watermark-remover",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "🎬 Video Generation"
+    },
+    {
+      "description": "The market: ModiFace (acquired by L'Oreal for est. $68M) powers virtual try-ons for major retailers. YouCam makes $50M+/year. Fashion and beauty AI tools have some of the highest willingness-to-pay of any consumer vertical.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TryOn AI",
+          "description": "↗ GitHub Fit any garment onto any person photo Botika ($99+/mo for brands), Lalaland.ai (enterprise) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1249158402,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:37:39Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-tryon",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Hairstyle Simulator",
+          "description": "↗ GitHub Virtual hair makeover and color try-on YouCam Hair ($30/yr), HairStyle.ai ($7.99/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1251332615,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:18Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-hair-style-simulator",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Tattoo Try-On",
+          "description": "↗ GitHub Preview tattoo designs on skin virtually Ink Hunter (1M+ users), Tattoosmart ($4.99/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1252360224,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:32Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-tattoo-try-on",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Professional Makeup",
+          "description": "↗ GitHub Try on professional makeup looks with AI YouCam Makeup ($30/yr), Perfect Corp ($enterprise) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1253049235,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:26Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-professional-makeup-generator",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "💄 Beauty & Fashion AI"
+    },
+    {
+      "description": "The market: Photoroom (product photo editing) raised $19M Series A and reportedly crossed $50M ARR. Flair AI raised $4M. E-commerce sellers pay premium for anything that speeds up product listings — this is a high-LTV B2B niche.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Resale Photo Enhancer",
+          "description": "↗ GitHub AI product photo studio for eBay, Poshmark, Depop sellers Photoroom ($9.99–$79/mo, est. $50M+ ARR), Pixelcut ($7/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1244678850,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:24:58Z",
+            "owner": "SamurAIGPT",
+            "repo": "resale-photo-enhancer",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pet Product Studio",
+          "description": "↗ GitHub AI lifestyle product ads featuring pets Pebblely ($19–$39/mo), Flair AI ($10+/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1244699351,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:25:56Z",
+            "owner": "SamurAIGPT",
+            "repo": "pet-product-studio",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amazon Product Studio",
+          "description": "↗ GitHub Studio-quality product photos from reference images Flair AI ($10+/mo), Booth AI ($20+/mo), Photoroom ($79/mo for teams) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1249943377,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:33:58Z",
+            "owner": "SamurAIGPT",
+            "repo": "amazon-product-studio",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "🛒 E-commerce & Product Photography"
+    },
+    {
+      "description": "The market: BoxBrownie (real estate photo editing) processes 100k+ orders/month at $4–$32/image. Virtual Staging AI charges $29/image. The real estate industry spends $10B+/year on marketing — AI staging is eating into that fast.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EstateStager AI",
+          "description": "↗ GitHub Turn empty rooms into furnished showrooms with AI BoxBrownie ($32/room), Virtual Staging AI ($29/image) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1249083052,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:38:36Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-real-estate-stager",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Room Declutter",
+          "description": "↗ GitHub Transform messy rooms into photorealistic clean interiors RoomGPT ($10/mo), Reimagine Home ($15/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1253450029,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:28Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-room-declutter",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "🏠 Home & Real Estate AI"
+    },
+    {
+      "description": "The market: Lensa AI made $50M in two months at launch. FaceApp has 150M+ users. Portrait and avatar tools are proven consumer hits — high volume, impulse purchase, low churn from novelty factor.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Royal Portrait AI",
+          "description": "↗ GitHub Transform selfies into royal and artistic portrait styles Lensa AI ($8/mo), Portrait AI ($10/pack) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1250183126,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:30Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-royal-portrait",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MagicSelf AI",
+          "description": "↗ GitHub Turn selfies into oil paintings, anime, watercolors, and more Prisma (50M+ users), ToonMe ($3.99/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1253229884,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:46Z",
+            "owner": "SamurAIGPT",
+            "repo": "magicself-ai",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Wedding Photo",
+          "description": "↗ GitHub Place any portrait into dreamy wedding scenes Remini ($10/mo), Facetune ($6/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1252197079,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:36Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-wedding-photo",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Kid to Adult",
+          "description": "↗ GitHub Photorealistic age progression — child to adult FaceApp ($4/mo, 150M+ users), AgePro ($2.99) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1253354166,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:22Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-kid-to-adult-prediction",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Pet Portrait",
+          "description": "↗ GitHub Transform pet photos into paintings, royal portraits, and art Portrait My Pet ($35/pack), PetPainter ($15/pack) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1253107967,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:24Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-pet-portrait",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Travel Studio",
+          "description": "↗ GitHub Place yourself into iconic travel destinations worldwide Teleport AI ($9.99/mo), AI Photo ($5/pack) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1253379928,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:34Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-travel-studio",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Fitness Simulator",
+          "description": "↗ GitHub Visualize body transformation goals with AI BodyApp AI ($10/mo), Fitness AI ($10/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1252055802,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:42:55Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-fitness-body-simulator",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Group Photo",
+          "description": "Composite people into a natural-looking AI group photo Photoshop ($23/mo), group-photo apps —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1256088825,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:15Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-group-photo",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "👤 Portrait & Avatar AI"
+    },
+    {
+      "description": "The market: Jasper AI hit $80M ARR at peak. Copy.ai raised $13.9M. Surfer SEO raised $22M. Writers and marketers are the highest-converting SaaS buyers — they feel the pain every day and pay monthly without question.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Blogger CMS",
+          "description": "↗ GitHub AI blog writer with WYSIWYG editor and full SEO suite Jasper ($39–$99/mo, $80M+ ARR peak), Surfer SEO ($69/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1248868456,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:38Z",
+            "owner": "SamurAIGPT",
+            "repo": "blogger-cms",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Social Post AI",
+          "description": "↗ GitHub Generate posts for LinkedIn, Twitter/X, Instagram, Reddit Buffer ($18/mo), Taplio ($39/mo), Hootsuite ($99/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1250245660,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:24:34Z",
+            "owner": "SamurAIGPT",
+            "repo": "social-post",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prompt Architect",
+          "description": "↗ GitHub Engineer and refine AI prompts for ChatGPT, Claude, Midjourney PromptBase ($10+/prompt), PromptPerfect ($9.99/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1250291361,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:25:22Z",
+            "owner": "SamurAIGPT",
+            "repo": "prompt-architect",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Resume Builder",
+          "description": "↗ GitHub ATS-optimized resumes with PDF/Word export Teal ($29/mo), Kickresume ($19/mo), Rezi ($29/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1252094179,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:38:12Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-resume-builder",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mail-Wise",
+          "description": "↗ GitHub AI cold email and business email composer Lavender AI ($29/mo), Reply.io ($60/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1251331536,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:26:41Z",
+            "owner": "SamurAIGPT",
+            "repo": "mail-wise",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEO Checker",
+          "description": "↗ GitHub Audit landing page AI search visibility for ChatGPT, Perplexity, Gemini SEMrush ($120/mo), Surfer SEO ($69/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1252417991,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T09:37:44Z",
+            "owner": "SamurAIGPT",
+            "repo": "geo-checker",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Larryloop",
+          "description": "Generate and publish viral TikTok/Instagram carousel slides from any website Larryloop, PostNitro ($9/mo) —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 734373906,
+            "language": null,
+            "last_commit": "2026-06-16T07:44:53Z",
+            "owner": "Anil-matcha",
+            "repo": "open-larryloop",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Pomelli",
+          "description": "Turn a website into editable brand DNA, on-brand campaign concepts, product photography, and short-form videos Pomelli (Google), AdCreative ($21/mo) —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1115340067,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T09:37:05Z",
+            "owner": "SamurAIGPT",
+            "repo": "Open-Pomelli",
+            "stars": 100
+          }
+        }
+      ],
+      "title": "✍️ Writing & Content"
+    },
+    {
+      "description": "The market: Character.AI reportedly crossed $1B ARR. Chatbase (chatbot builder) hit $1M ARR in under a year bootstrapped. Botpress raised $25M. Custom AI agents are the fastest-growing B2B SaaS category.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KnowBase AI",
+          "description": "↗ GitHub RAG chatbot builder trained on your docs, URLs, and Q&A Chatbase ($19–$99/mo, $1M+ ARR), SiteGPT ($49/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1249256406,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:41:09Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-knowledge-base",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CardAI Creator",
+          "description": "↗ GitHub Digital business cards with embedded AI visitor chatbot Popl ($8/mo), HiHello ($6/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1248986839,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:32:53Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-business-card",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Character Studio",
+          "description": "↗ GitHub Generate AI character portraits and roleplay chat Character.AI (est. $1B ARR), Replika ($70/yr) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1251332215,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:43:18Z",
+            "owner": "SamurAIGPT",
+            "repo": "ai-character-studio",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Character AI",
+          "description": "↗ GitHub Self-hosted character roleplay chatbot — custom personas with per-chat LLM tuning Character.AI (est. $1B ARR), Replika ($70/yr) —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61951736,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:33:40Z",
+            "owner": "Anil-matcha",
+            "repo": "open-character-ai",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Claude Tag",
+          "description": "Self-hostable, channel-native Slack AI teammate with shared channel memory, skill creation, and multi-LLM support Claude Tag, Slack AI, Botpress —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1336779271,
+            "language": "Python",
+            "last_commit": "2026-08-17T06:51:31Z",
+            "owner": "Anil-matcha",
+            "repo": "open-claude-tag",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Grok Bot",
+          "description": "Local-first AI workspace for bot personas, multimodal chat, voice dictation, governed computer use, and connectors over MUAPI ChatGPT, Open WebUI, Claude Desktop —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1340344224,
+            "language": "Python",
+            "last_commit": "2026-08-20T08:28:08Z",
+            "owner": "Anil-matcha",
+            "repo": "open-grok-bot",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Wiki Agent",
+          "description": "A personal knowledge base that builds and maintains itself — drop in sources, get an interlinked wiki Notion AI ($10/mo), Mem ($10/mo) —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 630824392,
+            "language": "Python",
+            "last_commit": "2026-08-24T04:07:01Z",
+            "owner": "SamurAIGPT",
+            "repo": "llm-wiki-agent",
+            "stars": 3442
+          }
+        }
+      ],
+      "title": "🤖 AI Agents & Chatbots"
+    },
+    {
+      "description": "The market: ElevenLabs hit $80M ARR in under 3 years and raised at a $3.3B valuation. Murf AI raised $10M. Voice is one of the fastest paths to B2B revenue — companies pay recurring fees for voice APIs that power their own products.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "My Podcast Studio",
+          "description": "↗ GitHub AI voiceover and podcast narration with MiniMax Speech 2.6 ElevenLabs ($5–$99/mo, $80M ARR), Murf AI ($29/mo) Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1250987474,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:26:27Z",
+            "owner": "SamurAIGPT",
+            "repo": "my-podcast",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Voice Agent",
+          "description": "↗ GitHub Self-hosted AI voice agent with speech-to-speech conversation Bland.ai ($0.09/min), Vapi ($0.05/min), Retell AI ($0.07/min) —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 656288093,
+            "language": "Python",
+            "last_commit": "2026-08-20T12:57:12Z",
+            "owner": "Anil-matcha",
+            "repo": "AI-Voice-Agent",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "🎵 Audio & Voice"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:12:04.546Z",
+    "last_updated": "2026-08-24T14:00:43.524Z",
     "original_repository": "Anil-matcha/awesome-generative-ai-apps",
     "original_repository_id": 716944423,
     "original_repository_sha": "132ff986d5b1a8602746ba1982057790490290b0",
