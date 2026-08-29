@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-27T17:22:22Z",
+            "last_commit": "2026-08-29T06:45:15Z",
             "open_issues": 31,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 27318,
+            "stars": 27329,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1980,
+            "stars": 1981,
             "topics": [
               "ai",
               "ai-agents",
@@ -147,7 +147,7 @@
             "id": 1280333539,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-08-02T09:36:52Z",
+            "last_commit": "2026-08-29T06:41:49Z",
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "open-ai-agents-hub",
@@ -315,7 +315,7 @@
             "open_issues": 14,
             "owner": "Anil-matcha",
             "repo": "AI-Youtube-Shorts-Generator",
-            "stars": 4757,
+            "stars": 4759,
             "topics": [
               "2short-ai-alternative",
               "ai-clip-generator",
@@ -443,11 +443,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-27T17:22:22Z",
+            "last_commit": "2026-08-29T06:45:15Z",
             "open_issues": 31,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 27318,
+            "stars": 27329,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -531,7 +531,7 @@
             "open_issues": 3,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Design-Agent",
-            "stars": 335,
+            "stars": 336,
             "topics": [
               "ai-agent",
               "ai-creative-agent",
@@ -569,7 +569,7 @@
             "id": 1280333539,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-08-02T09:36:52Z",
+            "last_commit": "2026-08-29T06:41:49Z",
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "open-ai-agents-hub",
@@ -611,7 +611,7 @@
             "id": 1280333539,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-08-02T09:36:52Z",
+            "last_commit": "2026-08-29T06:41:49Z",
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "open-ai-agents-hub",
@@ -1131,7 +1131,7 @@
             "open_issues": 14,
             "owner": "Anil-matcha",
             "repo": "AI-Youtube-Shorts-Generator",
-            "stars": 4757,
+            "stars": 4759,
             "topics": [
               "2short-ai-alternative",
               "ai-clip-generator",
@@ -3097,7 +3097,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:24:08.295Z",
+    "last_updated": "2026-08-29T08:56:52.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every template.",
@@ -3109,7 +3109,7 @@
       "open_issues": 9,
       "owner": "Anil-matcha",
       "repo": "awesome-generative-ai-apps",
-      "stars": 3082,
+      "stars": 3086,
       "topics": [
         "ai-apps",
         "ai-image-generator",
