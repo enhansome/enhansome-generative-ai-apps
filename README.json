@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T05:00:48Z",
+            "last_commit": "2026-09-25T14:01:50Z",
             "open_issues": 38,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29174,
+            "stars": 29222,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -103,7 +103,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "awesome-gpt-6-astra",
-            "stars": 1131,
+            "stars": 1133,
             "topics": [
               "ai-agents",
               "ai-coding",
@@ -145,7 +145,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "awesome-vibecoded-saas",
-            "stars": 1023,
+            "stars": 1026,
             "topics": [
               "ai-apps",
               "ai-tools",
@@ -184,10 +184,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-23T18:02:05Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "Anil-matcha",
             "repo": "awesome-jev-by-typesafe",
-            "stars": 846,
+            "stars": 851,
             "topics": [
               "agent-workflows",
               "ai-api",
@@ -277,7 +277,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "open-ai-agents-hub",
-            "stars": 29,
+            "stars": 28,
             "topics": [
               "agent-marketplace",
               "ai-agent-builder",
@@ -403,7 +403,7 @@
             "open_issues": 3,
             "owner": "SamurAIGPT",
             "repo": "Open-Pomelli",
-            "stars": 115,
+            "stars": 116,
             "topics": [
               "ad-generator",
               "ai-campaign-generator",
@@ -441,7 +441,7 @@
             "open_issues": 25,
             "owner": "Anil-matcha",
             "repo": "AI-Youtube-Shorts-Generator",
-            "stars": 5129,
+            "stars": 5140,
             "topics": [
               "2short-ai-alternative",
               "ai-clip-generator",
@@ -483,7 +483,7 @@
             "open_issues": 4,
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4326,
+            "stars": 4328,
             "topics": [
               "agent-skills",
               "agent-tools",
@@ -525,7 +525,7 @@
             "open_issues": 11,
             "owner": "SamurAIGPT",
             "repo": "llm-wiki-agent",
-            "stars": 3573,
+            "stars": 3578,
             "topics": [
               "ai-agent",
               "ai-tools",
@@ -569,11 +569,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T05:00:48Z",
+            "last_commit": "2026-09-25T14:01:50Z",
             "open_issues": 38,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29174,
+            "stars": 29222,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -615,7 +615,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Free-AI-Social-Media-Scheduler",
-            "stars": 522,
+            "stars": 524,
             "topics": [
               "ai",
               "ai-content-generation",
@@ -657,7 +657,7 @@
             "open_issues": 4,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Design-Agent",
-            "stars": 373,
+            "stars": 374,
             "topics": [
               "ai-agent",
               "ai-creative-agent",
@@ -699,7 +699,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "open-ai-agents-hub",
-            "stars": 29,
+            "stars": 28,
             "topics": [
               "agent-marketplace",
               "ai-agent-builder",
@@ -741,7 +741,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "open-ai-agents-hub",
-            "stars": 29,
+            "stars": 28,
             "topics": [
               "agent-marketplace",
               "ai-agent-builder",
@@ -783,7 +783,7 @@
             "open_issues": 1,
             "owner": "SamurAIGPT",
             "repo": "Vibe-Workflow",
-            "stars": 596,
+            "stars": 597,
             "topics": [
               "ai",
               "ai-workflow-builder",
@@ -825,7 +825,7 @@
             "open_issues": 1,
             "owner": "SamurAIGPT",
             "repo": "pixelrelay",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "ai",
               "ai-infrastructure",
@@ -915,7 +915,7 @@
             "open_issues": 0,
             "owner": "SamurAIGPT",
             "repo": "ai-headshot-generator",
-            "stars": 41,
+            "stars": 40,
             "topics": [
               "ai-headshot-generator",
               "ai-headshots",
@@ -1257,7 +1257,7 @@
             "open_issues": 25,
             "owner": "Anil-matcha",
             "repo": "AI-Youtube-Shorts-Generator",
-            "stars": 5129,
+            "stars": 5140,
             "topics": [
               "2short-ai-alternative",
               "ai-clip-generator",
@@ -1299,7 +1299,7 @@
             "open_issues": 0,
             "owner": "SamurAIGPT",
             "repo": "ai-clipping-generator",
-            "stars": 85,
+            "stars": 86,
             "topics": [
               "ai-clip-generator",
               "ai-saas",
@@ -1341,7 +1341,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 509,
+            "stars": 511,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -1425,7 +1425,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Open-AI-UGC",
-            "stars": 330,
+            "stars": 334,
             "topics": [
               "ai-actors",
               "ai-marketing",
@@ -1467,7 +1467,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "vox-ai-motion-graphics-generator",
-            "stars": 219,
+            "stars": 222,
             "topics": [
               "agent-skill",
               "ai-motion-graphics",
@@ -1591,7 +1591,7 @@
             "open_issues": 2,
             "owner": "SamurAIGPT",
             "repo": "AI-Faceless-Video-Generator",
-            "stars": 506,
+            "stars": 507,
             "topics": [
               "ai-video-generator",
               "artificial-intelligence",
@@ -2806,7 +2806,7 @@
             "open_issues": 3,
             "owner": "SamurAIGPT",
             "repo": "Open-Pomelli",
-            "stars": 115,
+            "stars": 116,
             "topics": [
               "ad-generator",
               "ai-campaign-generator",
@@ -3102,7 +3102,7 @@
             "open_issues": 11,
             "owner": "SamurAIGPT",
             "repo": "llm-wiki-agent",
-            "stars": 3573,
+            "stars": 3578,
             "topics": [
               "ai-agent",
               "ai-tools",
@@ -3223,7 +3223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T07:38:17.748Z",
+    "last_updated": "2026-09-26T07:30:37.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every template.",
@@ -3235,7 +3235,7 @@
       "open_issues": 14,
       "owner": "Anil-matcha",
       "repo": "awesome-generative-ai-apps",
-      "stars": 3318,
+      "stars": 3326,
       "topics": [
         "ai-apps",
         "ai-image-generator",
