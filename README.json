@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29555,
+            "stars": 29559,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2058,
+            "stars": 2060,
             "topics": [
               "ai",
               "ai-agents",
@@ -187,7 +187,7 @@
             "open_issues": 32,
             "owner": "Anil-matcha",
             "repo": "awesome-jev-by-typesafe",
-            "stars": 894,
+            "stars": 895,
             "topics": [
               "agent-workflows",
               "ai-api",
@@ -403,7 +403,7 @@
             "open_issues": 3,
             "owner": "SamurAIGPT",
             "repo": "Open-Pomelli",
-            "stars": 117,
+            "stars": 118,
             "topics": [
               "ad-generator",
               "ai-campaign-generator",
@@ -441,7 +441,7 @@
             "open_issues": 25,
             "owner": "Anil-matcha",
             "repo": "AI-Youtube-Shorts-Generator",
-            "stars": 5213,
+            "stars": 5216,
             "topics": [
               "2short-ai-alternative",
               "ai-clip-generator",
@@ -552,7 +552,7 @@
             "open_issues": 39,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29555,
+            "stars": 29559,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -636,7 +636,7 @@
             "open_issues": 4,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Design-Agent",
-            "stars": 387,
+            "stars": 388,
             "topics": [
               "ai-agent",
               "ai-creative-agent",
@@ -1236,7 +1236,7 @@
             "open_issues": 25,
             "owner": "Anil-matcha",
             "repo": "AI-Youtube-Shorts-Generator",
-            "stars": 5213,
+            "stars": 5216,
             "topics": [
               "2short-ai-alternative",
               "ai-clip-generator",
@@ -1570,7 +1570,7 @@
             "open_issues": 2,
             "owner": "SamurAIGPT",
             "repo": "AI-Faceless-Video-Generator",
-            "stars": 508,
+            "stars": 509,
             "topics": [
               "ai-video-generator",
               "artificial-intelligence",
@@ -2533,7 +2533,7 @@
             "open_issues": 0,
             "owner": "SamurAIGPT",
             "repo": "social-post",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "ai-copywriting",
               "ai-saas",
@@ -2785,7 +2785,7 @@
             "open_issues": 3,
             "owner": "SamurAIGPT",
             "repo": "Open-Pomelli",
-            "stars": 117,
+            "stars": 118,
             "topics": [
               "ad-generator",
               "ai-campaign-generator",
@@ -3202,7 +3202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:46:56.176Z",
+    "last_updated": "2026-10-03T07:57:36.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every template.",
@@ -3214,7 +3214,7 @@
       "open_issues": 15,
       "owner": "Anil-matcha",
       "repo": "awesome-generative-ai-apps",
-      "stars": 3363,
+      "stars": 3364,
       "topics": [
         "ai-apps",
         "ai-image-generator",
