@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 31451,
+            "stars": 31548,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -103,7 +103,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "awesome-vibecoded-saas",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "ai-apps",
               "ai-tools",
@@ -441,7 +441,7 @@
             "open_issues": 25,
             "owner": "Anil-matcha",
             "repo": "AI-Youtube-Shorts-Generator",
-            "stars": 5589,
+            "stars": 5604,
             "topics": [
               "2short-ai-alternative",
               "ai-clip-generator",
@@ -504,7 +504,7 @@
             "open_issues": 13,
             "owner": "SamurAIGPT",
             "repo": "llm-wiki-agent",
-            "stars": 3649,
+            "stars": 3653,
             "topics": [
               "ai-agent",
               "ai-tools",
@@ -552,7 +552,7 @@
             "open_issues": 43,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 31451,
+            "stars": 31548,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -585,37 +585,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Free open-source AI social media scheduler — self-hostable alternative to Postiz, Buffer, and Hootsuite with built-in AI content generation.",
+            "description": "Free, open-source Postiz alternative: self-host a social media scheduler with an AI post writer, content calendar, and publishing across 8 platforms. MIT licensed; external provider charges may apply.",
             "homepage": null,
             "id": 1405856088,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T14:41:37Z",
+            "last_commit": "2026-10-26T05:43:39Z",
             "open_issues": 0,
             "owner": "Anil-matcha",
-            "repo": "Free-AI-Social-Media-Scheduler",
+            "repo": "Postiz-cheap",
             "stars": 10,
             "topics": [
               "ai",
               "ai-content-generation",
-              "ai-scheduler",
-              "buffer-alternative",
-              "content-creator",
+              "content-calendar",
               "content-scheduling",
               "facebook",
-              "hootsuite-alternative",
+              "free",
               "instagram",
-              "later-alternative",
               "linkedin",
               "nextjs",
               "open-source",
+              "pinterest",
+              "postiz-alternative",
               "self-hosted",
               "social-media",
               "social-media-automation",
               "social-media-scheduler",
-              "sprout-social-alternative",
+              "threads",
               "tiktok",
-              "twitter"
+              "twitter",
+              "youtube"
             ]
           },
           "first_seen": "2026-10-08T08:48:35.026Z"
@@ -636,7 +636,7 @@
             "open_issues": 4,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Design-Agent",
-            "stars": 467,
+            "stars": 468,
             "topics": [
               "ai-agent",
               "ai-creative-agent",
@@ -1236,7 +1236,7 @@
             "open_issues": 25,
             "owner": "Anil-matcha",
             "repo": "AI-Youtube-Shorts-Generator",
-            "stars": 5589,
+            "stars": 5604,
             "topics": [
               "2short-ai-alternative",
               "ai-clip-generator",
@@ -1320,7 +1320,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 547,
+            "stars": 548,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -1404,7 +1404,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Open-AI-UGC",
-            "stars": 394,
+            "stars": 395,
             "topics": [
               "ai-actors",
               "ai-marketing",
@@ -1570,7 +1570,7 @@
             "open_issues": 2,
             "owner": "SamurAIGPT",
             "repo": "AI-Faceless-Video-Generator",
-            "stars": 522,
+            "stars": 523,
             "topics": [
               "ai-video-generator",
               "artificial-intelligence",
@@ -1642,7 +1642,7 @@
             "open_issues": 1,
             "owner": "SamurAIGPT",
             "repo": "AI-Influencer-Generator",
-            "stars": 335,
+            "stars": 336,
             "topics": [
               "ai-api",
               "ai-influencer",
@@ -1900,7 +1900,7 @@
             "open_issues": 0,
             "owner": "SamurAIGPT",
             "repo": "ai-professional-makeup-generator",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "ai-beauty",
               "ai-image-generator",
@@ -3081,7 +3081,7 @@
             "open_issues": 13,
             "owner": "SamurAIGPT",
             "repo": "llm-wiki-agent",
-            "stars": 3649,
+            "stars": 3653,
             "topics": [
               "ai-agent",
               "ai-tools",
@@ -3202,7 +3202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:31:20.459Z",
+    "last_updated": "2026-10-26T07:42:19.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every template.",
@@ -3211,10 +3211,10 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2026-10-22T18:33:42Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "Anil-matcha",
       "repo": "awesome-generative-ai-apps",
-      "stars": 638,
+      "stars": 639,
       "topics": [
         "ai-apps",
         "ai-image-generator",
