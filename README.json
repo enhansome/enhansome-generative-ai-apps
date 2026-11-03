@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T10:09:15Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-03T08:58:14Z",
+            "open_issues": 48,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 32044,
+            "stars": 32111,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "awesome-vibecoded-saas",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "ai-apps",
               "ai-tools",
@@ -83,6 +83,48 @@
               "vibe-coding",
               "vibecoding",
               "web-apps"
+            ]
+          },
+          "first_seen": "2026-10-15T07:18:08.048Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ai-creator-academy",
+          "description": "free curriculum teaching creators, freelancers, and agencies how to monetize generative AI — the \"how to sell\" companion to these \"what to clone\" apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, open-source curriculum for making money with generative AI image, video, and audio — for creators and agencies.",
+            "homepage": null,
+            "id": 1408607431,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-15T03:57:04Z",
+            "open_issues": 1,
+            "owner": "Anil-matcha",
+            "repo": "ai-creator-academy",
+            "stars": 13,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-audio",
+              "ai-avatars",
+              "ai-filmmaking",
+              "ai-image",
+              "ai-influencer",
+              "ai-tools",
+              "ai-video",
+              "content-creation",
+              "creator-economy",
+              "curriculum",
+              "faceless-youtube",
+              "freelancing",
+              "generative-ai",
+              "make-money-online",
+              "open-source",
+              "print-on-demand",
+              "ugc-ads",
+              "vibe-coding"
             ]
           },
           "first_seen": "2026-10-15T07:18:08.048Z"
@@ -128,48 +170,6 @@
             ]
           },
           "first_seen": "2026-10-08T08:48:35.026Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ai-creator-academy",
-          "description": "free curriculum teaching creators, freelancers, and agencies how to monetize generative AI — the \"how to sell\" companion to these \"what to clone\" apps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Free, open-source curriculum for making money with generative AI image, video, and audio — for creators and agencies.",
-            "homepage": null,
-            "id": 1408607431,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-15T03:57:04Z",
-            "open_issues": 1,
-            "owner": "Anil-matcha",
-            "repo": "ai-creator-academy",
-            "stars": 12,
-            "topics": [
-              "ai",
-              "ai-agents",
-              "ai-audio",
-              "ai-avatars",
-              "ai-filmmaking",
-              "ai-image",
-              "ai-influencer",
-              "ai-tools",
-              "ai-video",
-              "content-creation",
-              "creator-economy",
-              "curriculum",
-              "faceless-youtube",
-              "freelancing",
-              "generative-ai",
-              "make-money-online",
-              "open-source",
-              "print-on-demand",
-              "ugc-ads",
-              "vibe-coding"
-            ]
-          },
-          "first_seen": "2026-10-15T07:18:08.048Z"
         },
         {
           "node_type": "item",
@@ -235,7 +235,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "zack-d-films-ai-video-generator",
-            "stars": 32,
+            "stars": 37,
             "topics": [
               "3d-animation",
               "agent-skill",
@@ -437,11 +437,11 @@
             "id": 821280833,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T17:01:38Z",
+            "last_commit": "2026-11-03T09:00:53Z",
             "open_issues": 26,
             "owner": "Anil-matcha",
             "repo": "AI-Youtube-Shorts-Generator",
-            "stars": 5721,
+            "stars": 5737,
             "topics": [
               "2short-ai-alternative",
               "ai-clip-generator",
@@ -500,7 +500,7 @@
             "id": 630824392,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T08:57:58Z",
+            "last_commit": "2026-11-02T11:11:47Z",
             "open_issues": 13,
             "owner": "SamurAIGPT",
             "repo": "llm-wiki-agent",
@@ -548,11 +548,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T10:09:15Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-03T08:58:14Z",
+            "open_issues": 48,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 32044,
+            "stars": 32111,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -636,7 +636,7 @@
             "open_issues": 4,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Design-Agent",
-            "stars": 474,
+            "stars": 475,
             "topics": [
               "ai-agent",
               "ai-creative-agent",
@@ -1232,11 +1232,11 @@
             "id": 821280833,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T17:01:38Z",
+            "last_commit": "2026-11-03T09:00:53Z",
             "open_issues": 26,
             "owner": "Anil-matcha",
             "repo": "AI-Youtube-Shorts-Generator",
-            "stars": 5721,
+            "stars": 5737,
             "topics": [
               "2short-ai-alternative",
               "ai-clip-generator",
@@ -1320,7 +1320,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 556,
+            "stars": 557,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -1404,7 +1404,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Open-AI-UGC",
-            "stars": 410,
+            "stars": 411,
             "topics": [
               "ai-actors",
               "ai-marketing",
@@ -1446,7 +1446,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "vox-ai-motion-graphics-generator",
-            "stars": 307,
+            "stars": 312,
             "topics": [
               "agent-skill",
               "ai-motion-graphics",
@@ -1486,7 +1486,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "zack-d-films-ai-video-generator",
-            "stars": 32,
+            "stars": 37,
             "topics": [
               "3d-animation",
               "agent-skill",
@@ -1570,7 +1570,7 @@
             "open_issues": 2,
             "owner": "SamurAIGPT",
             "repo": "AI-Faceless-Video-Generator",
-            "stars": 527,
+            "stars": 528,
             "topics": [
               "ai-video-generator",
               "artificial-intelligence",
@@ -1642,7 +1642,7 @@
             "open_issues": 1,
             "owner": "SamurAIGPT",
             "repo": "AI-Influencer-Generator",
-            "stars": 338,
+            "stars": 339,
             "topics": [
               "ai-api",
               "ai-influencer",
@@ -2955,7 +2955,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "open-character-ai",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "ai-character",
               "ai-chatbot",
@@ -3077,7 +3077,7 @@
             "id": 630824392,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T08:57:58Z",
+            "last_commit": "2026-11-02T11:11:47Z",
             "open_issues": 13,
             "owner": "SamurAIGPT",
             "repo": "llm-wiki-agent",
@@ -3202,7 +3202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T09:18:45.720Z",
+    "last_updated": "2026-11-03T09:25:27.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every template.",
@@ -3214,7 +3214,7 @@
       "open_issues": 5,
       "owner": "Anil-matcha",
       "repo": "awesome-generative-ai-apps",
-      "stars": 690,
+      "stars": 699,
       "topics": [
         "ai-apps",
         "ai-image-generator",
